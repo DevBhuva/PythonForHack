@@ -1,2 +1,0 @@
-# PythonForHack
-Hacking with Python 
