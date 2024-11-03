@@ -14,7 +14,7 @@ This Python script allows users to change the MAC (Media Access Control) address
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/DevBhuva/PythonForHack/tree/main/MAC_CHANGER.git
+   https://github.com/DevBhuva/PythonForHack.git
    ```
 
 2. Navigate to the project directory:
